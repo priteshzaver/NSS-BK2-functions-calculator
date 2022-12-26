@@ -1,0 +1,1 @@
+The purpose of this project is to use functions to create a basic calculator.
